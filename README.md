@@ -1,9 +1,6 @@
 # ✨ Jonas Wettergrund
 
 ### Up and coming full-stack developer
-
-`dgd`
-
 ---
 
 ### 🛠 Tools and languages
