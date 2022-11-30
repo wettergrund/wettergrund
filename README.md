@@ -1,7 +1,5 @@
 # ✨ Jonas Wettergrund
 
-### Up and coming full-stack developer
----
 
 ### 🛠 Tools and languages
  
