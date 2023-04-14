@@ -8,6 +8,7 @@
  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
           
           
+ <img src="profile-3d-contrib/profile-green-animate.svg" />
  
 
 <!--
