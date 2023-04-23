@@ -13,7 +13,7 @@
  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
- <img src="profile-3d-contrib/profile-green-animate.svg" />
+ <img width="70%" src="profile-3d-contrib/profile-green-animate.svg" />
  
 
 <!--
