@@ -1,15 +1,18 @@
 # ✨ Jonas Wettergrund
 
 
+
 ### 🛠 Tools and languages
  
- <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
- <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
- <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ <img height="30px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img height="30px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /><img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /><img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img height="30px" src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=PostgreSQL&logoColor=white" /><img height="30px" src="https://img.shields.io/badge/HTML-ebebeb?style=for-the-badge&logo=html5&logoColor=e44d26" /><img height="30px" src="https://img.shields.io/badge/CSS-ebebeb?style=for-the-badge&logo=CSS3&logoColor=1572b6" />
+ 
+ 
+ ### ⚙ Technologies & Frameworks
+
  
  <img width="70%" src="profile-3d-contrib/profile-green-animate.svg" />
+ 
+ 
  
 
 <!--
