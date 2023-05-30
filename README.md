@@ -11,8 +11,7 @@
 <details>
   <summary>GitHub stats</summary>
  <img src="profile-3d-contrib/profile-green-animate.svg" />
- 
- </ details>
+</details>
  
 
 <!--
