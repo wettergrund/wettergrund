@@ -4,7 +4,7 @@
 
 ### 🛠 Tools and languages
  
- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,mysql,git,stackoverflow&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,mysql,git&perline=4)](https://skillicons.dev)
  
 
 
