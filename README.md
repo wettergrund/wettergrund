@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Fullstack developer with experience in .NET framework, SQL and JS/React. <br>One of my key skills is my ability to quickly adapt to new technologies and concepts.</p>
+<p align="center">Fullstack developer with experience in .NET framework, SQL and JS/React.</p>
 
 ###
 
