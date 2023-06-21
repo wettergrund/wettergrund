@@ -1,30 +1,46 @@
-# ✨ Jonas Wettergrund
+<br clear="both">
 
+<h1 align="center">Hi, I'm Jonas! 🖐</h1>
 
+###
 
-### 🛠 Tools and languages
+<p align="center">Fullstack developer with experience in .NET framework, SQL and JS/React. <br>One of my key skills is my ability to quickly adapt to new technologies and concepts.</p>
+
+###
+
+<div align="center">
  
  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,mysql,git&perline=4)](https://skillicons.dev)
  
+</div>
 
 
-<details>
-  <summary>GitHub stats</summary>
- <img src="profile-3d-contrib/profile-green-animate.svg" />
-</details>
- 
+###
 
-<!--
-**wettergrund/wettergrund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wettergrund&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/wettergrund/wettergrund/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/jonas-wettergrund/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jonas.wettergrund" alt="Layout with last medium posts"  />
+</div>
+
+###
