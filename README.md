@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Fullstack developer with experience in .NET framework, SQL and JS/React.</p>
+<p align="center">Fullstack developer with experience in .NET CORE, SQL and JS/React.</p>
 
 ###
 
