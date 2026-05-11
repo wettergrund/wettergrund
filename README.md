@@ -1,6 +1,5 @@
 <br clear="both">
 
-<h1 align="center">Hi, I'm Jonas! 🖐</h1>
 
 ###
 
@@ -15,21 +14,6 @@
 </div>
 
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wettergrund&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <a href="https://www.linkedin.com/in/jonas-wettergrund/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
